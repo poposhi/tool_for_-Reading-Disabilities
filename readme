@@ -1,0 +1,33 @@
+閱讀障礙電子輔具分享
+
+英文視頻:
+用套件把中文字幕念出來或者我有訂閱轉出來的中文也比較好
+
+套件連接:youtube-dubbing.com
+
+
+手機的話android ios 都會有無障礙輔助使用，可以把字念出來
+
+電腦瀏覽器:
+微軟 Edge 瀏覽器 control shift + u 可以念出反白指定的部分
+我有寫一個autohotkey快捷鍵腳本
+按control 加 Windows就會模擬 control shift 加 u 的快捷鍵，這樣子比較方便
+
+中文 pdf :
+因爲瀏覽器沒有辦法直接念出PDF反白指定的段落，所以要用套件把 pdf 轉成 html5的格式，就可以用網頁的方式念出 pdf
+
+https://chromewebstore.google.com/detail/pdf-viewer/oemmndcbldboiebfnladdacbdfmadadm
+
+英文 pdf:
+要使用沉浸式翻譯把英文 pdf 轉換成網頁格式，然後它就可以翻譯成中文，再用網頁的方式念出來
+
+套件名稱:沉浸式翻譯-雙語對照網頁翻譯-pdf文檔翻譯
+
+有時候還是有些文字無法用上面的方式念出來，我會使用balabolka，可以把文字貼上去，然後按快捷鍵 f5開始念出來 f7暫停
+也可以用 ctrl shift 加 g 把英文內容翻譯成中文，然後念出來
+
+
+
+數學公式，代碼，英文meme
+丟到gpt聽他解釋，再用瀏覽器念出來
+(GPT4可以看圖片，然後擁有良好的英文文字識別能力)
